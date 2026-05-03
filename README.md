@@ -15,7 +15,7 @@ class Leonardo:
        self.study= 'Information systems'
        self.code = {           
            'backend': ['Python','Java'],
-           'database': ['MSSQL', 'PostgreSQL', 'MySQL', 'SQLite3'],
+           'database': ['MSSQL', 'PostgreSQL', 'MySQL', 'SQLite3', 'SQLSERVER'],
            'tools': ['GIT', 'GitHub'],         
        }
        
